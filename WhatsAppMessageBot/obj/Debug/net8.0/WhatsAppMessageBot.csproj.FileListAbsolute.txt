@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\bin\Debug\net8.0\WhatsAppMessageBot.exe
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\bin\Debug\net8.0\WhatsAppMessageBot.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\bin\Debug\net8.0\WhatsAppMessageBot.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\bin\Debug\net8.0\WhatsAppMessageBot.dll
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\bin\Debug\net8.0\WhatsAppMessageBot.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\WhatsAppMessageBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\WhatsAppMessageBot.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\WhatsAppMessageBot.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\WhatsAppMessageBot.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\WhatsAppMessageBot.dll
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\refint\WhatsAppMessageBot.dll
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\WhatsAppMessageBot.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\WhatsAppMessageBot.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Debug\net8.0\ref\WhatsAppMessageBot.dll
