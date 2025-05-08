@@ -195,3 +195,4 @@ C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj
 C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Release\net8.0\win-x64\WhatsAppMessageBot.pdb
 C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Release\net8.0\win-x64\WhatsAppMessageBot.genruntimeconfig.cache
 C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Release\net8.0\win-x64\ref\WhatsAppMessageBot.dll
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\obj\Release\net8.0\win-x64\WhatsAppMessageBot.sourcelink.json

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vaCl2BqFtWo=",
+  "dgSpecHash": "jEepSX0cVT4=",
   "success": true,
   "projectFilePath": "C:\\Users\\mehme\\OneDrive\\Masaüstü\\Mek\\Projects\\BasicApps\\WhatsAppMessageBot\\WhatsAppMessageBot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.15\\microsoft.netcore.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.15\\microsoft.aspnetcore.app.runtime.win-x64.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
