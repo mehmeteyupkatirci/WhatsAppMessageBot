@@ -1,0 +1,2 @@
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\bin\Release\net8.0\win-x64\publish\WhatsAppMessageBot.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Mek\Projects\BasicApps\WhatsAppMessageBot\bin\Release\net8.0\win-x64\publish\WhatsAppMessageBot.exe
